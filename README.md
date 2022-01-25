@@ -15,7 +15,7 @@
 </ul>
 
 <h2>Como testar</h2>
-
+Importar o projeto, abrir em um servidor local e utilizar o Postman ou Insomnia para acessar os seguintes end-points.
 <ol>
   <li>POST localhost:8080/api/v1/people : Para cadastrar usuários.</li>
   <li>GET localhost:8080/api/v1/people : Listar usuários cadastrado.</li>
