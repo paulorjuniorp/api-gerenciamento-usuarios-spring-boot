@@ -14,7 +14,7 @@
   <li>Junit</li>
 </ul>
 
-<h2>Como utilizar</h2>
+<h2>Como testar</h2>
 
 <ol>
   <li>POST localhost:8080/api/v1/people : Para cadastrar usuários.</li>
