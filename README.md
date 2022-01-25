@@ -17,11 +17,11 @@
 <h2>Como utilizar</h2>
 
 <ol>
-  <li>POST localhost:8080/api/v1/people``**: Para cadastrar usuários.</li>
-  <li>GET localhost:8080/api/v1/people``**: Listar usuários cadastrado.</li>
-  <li>GET localhost:8080/api/v1/people/{id}``**: Exibir um determinado usuário cadastrado.</li>
-  <li>PUT localhost:8080/api/v1/people/{id}``**: Para atualizar um usuário.</li>
-  <li>DELETE localhost:8080/api/v1/people/{id}``**: Para deletar um usuário.</li>
+  <li>POST localhost:8080/api/v1/people : Para cadastrar usuários.</li>
+  <li>GET localhost:8080/api/v1/people : Listar usuários cadastrado.</li>
+  <li>GET localhost:8080/api/v1/people/{id} : Exibir um determinado usuário cadastrado.</li>
+  <li>PUT localhost:8080/api/v1/people/{id} : Para atualizar um usuário.</li>
+  <li>DELETE localhost:8080/api/v1/people/{id} : Para deletar um usuário.</li>
 </ol>
 
 
